@@ -1,6 +1,3 @@
-#!/bin/bash
-#in  clude <stdio.h>
-
 #include <stdio.h>
 
 int main(void)
